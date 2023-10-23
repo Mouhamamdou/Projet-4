@@ -1,0 +1,86 @@
+[
+  {
+    "first_name": "soso",
+    "last_name": "Fall",
+    "date_of_birth": "1984-05-24",
+    "points": 28,
+    "score": 28
+  },
+  {
+    "first_name": "fofo",
+    "last_name": "diagne",
+    "date_of_birth": "1994-01-04",
+    "points": 24,
+    "score": 24
+  },
+  {
+    "first_name": "talla",
+    "last_name": "gaye",
+    "date_of_birth": "2000-04-06",
+    "points": 24,
+    "score": 24
+  },
+  {
+    "first_name": "falla",
+    "last_name": "fleur",
+    "date_of_birth": "1960-09-16",
+    "points": 23,
+    "score": 23
+  },
+  {
+    "first_name": "golbert",
+    "last_name": "diagne",
+    "date_of_birth": "1995-07-14",
+    "points": 22,
+    "score": 22
+  },
+  {
+    "first_name": "lala",
+    "last_name": "faye",
+    "date_of_birth": "1580-06-11",
+    "points": 20,
+    "score": 20
+  },
+  {
+    "first_name": "gur",
+    "last_name": "marius",
+    "date_of_birth": "1999-08-04",
+    "points": 20,
+    "score": 20
+  },
+  {
+    "first_name": "mama",
+    "last_name": "sene",
+    "date_of_birth": "1980-05-10",
+    "points": 17,
+    "score": 17
+  },
+  {
+    "first_name": "ahmad",
+    "last_name": "lah",
+    "date_of_birth": "1999-08-05",
+    "points": 3,
+    "score": 3
+  },
+  {
+    "first_name": "aha",
+    "last_name": "dio",
+    "date_of_birth": "2006-03-04",
+    "points": 2,
+    "score": 2
+  },
+  {
+    "first_name": "anas",
+    "last_name": "dia",
+    "date_of_birth": "2005-06-05",
+    "points": 1,
+    "score": 1
+  },
+  {
+    "first_name": "mama",
+    "last_name": "diaw",
+    "date_of_birth": "1988-09-05",
+    "points": 0,
+    "score": 0
+  }
+]
