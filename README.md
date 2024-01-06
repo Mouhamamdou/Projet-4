@@ -28,7 +28,6 @@ To set up the Chess Tournament Management System, follow these steps:
 
 2. Navigate to the project directory:
 
-    ```bash
    cd projet-4
 
 3.(Optional) Set up a virtual environment:
