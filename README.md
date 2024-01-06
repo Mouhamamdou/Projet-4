@@ -34,9 +34,9 @@ To set up the Chess Tournament Management System, follow these steps:
 3.(Optional) Set up a virtual environment:
 
     ```bash
-    python -m venv venv
-    source venv/bin/activate  # On Unix or MacOS
-    venv\Scripts\activate  # On Windows 
+   python -m venv venv
+   source venv/bin/activate  # On Unix or MacOS
+   venv\Scripts\activate  # On Windows 
 
 4. Install the required dependencies:
 
