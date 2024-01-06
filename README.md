@@ -47,7 +47,6 @@ To set up the Chess Tournament Management System, follow these steps:
 To run the Chess Tournament Management System, execute the following command 
 in the project directory:
 
-    ```bash
     python main.py
 
 ## Documentation
