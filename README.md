@@ -24,12 +24,12 @@ To set up the Chess Tournament Management System, follow these steps:
 1. Clone the repository:
 
     ```bash
-   git clone https://github.com/your-username/projet-4.git
+   git clone https://github.com/your-username/chess-tournament-management.git
 
 2. Navigate to the project directory:
 
     ```bash
-   cd projet-4
+   cd chess-tournament-management
 
 3.(Optional) Set up a virtual environment:
 
